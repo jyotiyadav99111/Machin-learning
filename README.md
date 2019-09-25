@@ -1,2 +1,2 @@
-# Machin-learning
-The repository consists of various projects composed of in-depth analysis of the algorithms and application at various places. 
+# Time-Series
+The repository consists of techniques for time series analysis starting from data preprocessing to forecasting.
